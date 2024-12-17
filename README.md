@@ -1,11 +1,23 @@
 # Power BI Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Power BI Jobs](https://algojobs.io/jobs/power-bi)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/17/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2605964) | [Bristol Myers Squibb](https://algojobs.io/company/bristolmyerssquibb/) | N/A | Hyderabad - TS - IN, India |
+| 12/17/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2605965) | [Bristol Myers Squibb](https://algojobs.io/company/bristolmyerssquibb/) | N/A | Hyderabad - TS - IN, India |
+| 12/17/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2605967) | [Bristol Myers Squibb](https://algojobs.io/company/bristolmyerssquibb/) | N/A | Hyderabad - TS - IN, India |
+| 12/17/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2605968) | [Bristol Myers Squibb](https://algojobs.io/company/bristolmyerssquibb/) | N/A | Hyderabad - TS - IN, India |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2605119) | [1016 Meijer Great Lakes LP](https://algojobs.io/company/meijer/) | N/A | Grand Rapids, MI, United States of America |
+| 12/16/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2604061) | [Wells Fargo & Company](https://algojobs.io/company/wf/) | N/A | Hyderabad, India |
+| 12/16/2024 | [Software Applications Development Engineer](https://algojobs.io/jobs/2605842) | [NTT](https://algojobs.io/company/nttlimited/) | N/A | Capellen, Luxembourg |
+| 12/16/2024 | [Application Developer](https://algojobs.io/jobs/2603502) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $110K - $130K | Mississauga, ON / MDC – Montreal |
+| 12/16/2024 | [Application Developer](https://algojobs.io/jobs/2603506) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $120K - $150K | New York, NY / Iselin, NJ |
+| 12/13/2024 | [PowerBI Developer - Hybrid](https://algojobs.io/jobs/2589686) | [Govcio LLC](https://algojobs.io/company/govcio/) | $145K - $165K | Quantico, VA, US (Hybrid) |
+| 12/13/2024 | [Software Data Analyst - Orlando / Alpharetta (Hybrid)](https://algojobs.io/jobs/2594441) | [CHEP](https://algojobs.io/company/brambles/) | N/A | Orlando, Florida, USA, United States of America (Hybrid) |
+| 12/13/2024 | [Associate - Python Developer (Finance Platform Strategies)](https://algojobs.io/jobs/2595465) | [BlackRock](https://algojobs.io/company/blackrock/) | N/A | Mumbai, India / Gurgaon, India |
 | 12/12/2024 | [Dynamics 365 / Power Platform Software Engineer](https://algojobs.io/jobs/2580321) | [DMI](https://algojobs.io/company/dminc/) | N/A | Bengaluru, KA, IN |
 | 12/12/2024 | [Senior Software Engineer - Java, Spring Boot](https://algojobs.io/jobs/2577172) | [Northwestern Mutual](https://algojobs.io/company/northwesternmutual/) | N/A | Milwaukee, WI Corporate, United States of America |
 | 12/12/2024 | [Microsoft Power Platform Developer](https://algojobs.io/jobs/2579575) | [Booz Allen Hamilton](https://algojobs.io/company/bah/) | $67K - $154K | Atlanta, GA, United States of America |
@@ -17,7 +29,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/10/2024 | [Data Management Developer focused on Collibra](https://algojobs.io/jobs/2554613) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Prague, Czechia |
 | 12/10/2024 | [CCaaS (Gen AI & LLM Developer)-Senior Associate](https://algojobs.io/jobs/2540381) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Hyderabad / Bangalore |
 | 12/09/2024 | [BI Developer](https://algojobs.io/jobs/2534014) | [Syndigo](https://algojobs.io/company/syndigo/) | N/A | US (Remote) |
-| 12/09/2024 | [Software Engineer](https://algojobs.io/jobs/2539394) | [1016 Meijer Great Lakes LP](https://algojobs.io/company/meijer/) | N/A | Grand Rapids, MI, United States of America |
 | 12/06/2024 | [Senior Software Engineer - Planboo](https://algojobs.io/jobs/2518329) | [Think-it](https://algojobs.io/company/think-it/) | N/A | Stockholm, Stockholm County, Sweden (Remote) |
 | 12/06/2024 | [Full Stack Software Developer & Solutions Analyst](https://algojobs.io/jobs/2522830) | [Intel](https://algojobs.io/company/intel/) | N/A | Costa Rica, San Jose |
 | 12/06/2024 | [Senior Software Developer](https://algojobs.io/jobs/2525937) | [Bristol Myers Squibb](https://algojobs.io/company/bristolmyerssquibb/) | N/A | Hyderabad - TS - IN, India |
@@ -35,14 +46,12 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/03/2024 | [Senior Power BI Developer (Immediate Joiner)](https://algojobs.io/jobs/2475592) | [Faptic Technology](https://algojobs.io/company/faptic-tech/) | N/A | Moldova, Republic of (Remote) |
 | 12/03/2024 | [Senior Power BI Developer (Immediate Joiner)](https://algojobs.io/jobs/2475597) | [Faptic Technology](https://algojobs.io/company/faptic-tech/) | N/A | Serbia (Remote) |
 | 11/29/2024 | [Developer / Analyst](https://algojobs.io/jobs/2303719) | [Tower Research Capital](https://algojobs.io/company/towerresearchcapital/) | N/A | Amsterdam |
-| 11/29/2024 | [Sr. Software Engineer, Data](https://algojobs.io/jobs/2448448) | [Blackhawk Network](https://algojobs.io/company/blackhawknetwork/) | $115K - $156K | Pleasanton, CA, US |
 | 11/29/2024 | [Intermediate BI Developer](https://algojobs.io/jobs/2306543) | [NTT](https://algojobs.io/company/nttlimited/) | N/A | Cape Town, Draper on Main / Johannesburg, South Africa |
 | 11/28/2024 | [Intermediate Software Engineer](https://algojobs.io/jobs/2295725) | [PointClickCare](https://algojobs.io/company/pointclickcare/) | $111K - $119K | Mississauga, Ontario (Hybrid) |
 | 11/28/2024 | [Online Sales Developer – Campaign Supervisor](https://algojobs.io/jobs/2306206) | [HP](https://algojobs.io/company/hp/) | N/A | Buenos Aires, Buenos Aires, Argentina |
 | 11/27/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2297715) | [Climavision](https://algojobs.io/company/climavision/) | N/A | Remote |
 | 11/27/2024 | [Software Senior Engineer](https://algojobs.io/jobs/2291565) | [Dell Technologies](https://algojobs.io/company/dell/) | N/A | Bangalore, India |
 | 11/26/2024 | [Sr. Software Engineer](https://algojobs.io/jobs/2294140) | [MCD McKesson Canada Corporation / La Corporation McKesson Canada](https://algojobs.io/company/mckesson/) | $113K - $188K | USA, TX, Irving / USA, NC, Cary |
-| 11/25/2024 | [Senior Principal Software Systems Engineer](https://algojobs.io/jobs/2282594) | [Dell Technologies](https://algojobs.io/company/dell/) | $175K - $227K | Round Rock, Texas, United States, United States of America |
 | 11/25/2024 | [Business Intelligence Developer-G6919](https://algojobs.io/jobs/2491331) | [Nisum](https://algojobs.io/company/nisum/) | N/A | Pleasanton, California (Remote) |
 | 11/25/2024 | [Microsoft 365 Developer](https://algojobs.io/jobs/2278935) | [Threat Tec, LLC](https://algojobs.io/company/threattec/) | N/A | Fort Leavenworth, Kansas |
 | 11/22/2024 | [Software Developer II](https://algojobs.io/jobs/2264014) | [Barbaricum](https://algojobs.io/company/barbaricum/) | N/A | Fort Belvoir, VA |
@@ -54,7 +63,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/20/2024 | [Principal Software Engineer](https://algojobs.io/jobs/2249256) | [Parexel](https://algojobs.io/company/parexel/) | N/A | Argentina-Remote / Brazil-Remote |
 | 11/20/2024 | [IN-Senior Associate_ Salesforce Senior Developer _Enterprise Apps-SFDC_Advisory_Pan India](https://algojobs.io/jobs/2243482) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Noida, India |
 | 11/20/2024 | [RPA Developer - UiPath](https://algojobs.io/jobs/2476807) | [VivSoft Technologies](https://algojobs.io/company/vivsoft/) | $80K - $90K | Ashburn, VA (Remote) |
-| 11/19/2024 | [Senior Software Engineer (Pyspark, Hadoop, Python, SQL, Airflow)](https://algojobs.io/jobs/2242494) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Pune, India |
 | 11/19/2024 | [IN-Senior Associate_ Salesforce Senior Developer _Enterprise Apps-SFDC_Advisory_Pan India](https://algojobs.io/jobs/2243510) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 11/18/2024 | [Lead Data Visualization Developer](https://algojobs.io/jobs/2228731) | [Excella ](https://algojobs.io/company/excella/) | N/A | Arlington, Virginia, United States, Remote |
 | 11/18/2024 | [Advisory Quality Assurance Software Engineer](https://algojobs.io/jobs/2234681) | [Pitney Bowes](https://algojobs.io/company/pitneybowes/) | N/A | IN Pune, India |
@@ -68,7 +76,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/12/2024 | [Software Engineer III](https://algojobs.io/jobs/2189415) | [Walmart](https://algojobs.io/company/walmart/) | $90K - $180K | Bentonville, AR, United States of America |
 | 11/12/2024 | [Software Development Engineer 1](https://algojobs.io/jobs/2178073) | [IQVIA](https://algojobs.io/company/iqvia/) | N/A | Taguig City, Philippines |
 | 11/12/2024 | [Senior Database Developer](https://algojobs.io/jobs/2182638) | [Aambience Services](https://algojobs.io/company/aambience-services/) | N/A | Tavros, Attica, Greece (Hybrid) |
-| 11/11/2024 | [Software Professional Services Leader - PMO](https://algojobs.io/jobs/2377981) | [Quest Software](https://algojobs.io/company/quest/) | N/A | Remote, IE |
 | 11/09/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2168995) | [Pitney Bowes](https://algojobs.io/company/pitneybowes/) | N/A | IN Pune, India |
 | 11/08/2024 | [Software Engineer](https://algojobs.io/jobs/2171141) | [Chevron Corporation](https://algojobs.io/company/chevron/) | N/A | Buenos Aires Shared Service Center (BASSC), Madero Office, Argentina |
 | 11/08/2024 | [staff Software Engineer](https://algojobs.io/jobs/2171198) | [Commonwealth Bank of Australia](https://algojobs.io/company/cba/) | N/A | Bangalore - Manyata Tech Park Road, India |
@@ -77,7 +84,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/07/2024 | [Senior Product Software Engineer – Developer Enablement](https://algojobs.io/jobs/2152313) | [Wolters Kluwer](https://algojobs.io/company/wk/) | N/A | IND - Pune, Kalyani Nagar, India |
 | 11/07/2024 | [Senior Product Software Engineer - Power BI, Fabric, UI/UX](https://algojobs.io/jobs/2161900) | [Wolters Kluwer](https://algojobs.io/company/wk/) | N/A | IND - Pune, Kalyani Nagar, India |
 | 11/07/2024 | [Associate - .Net Developer](https://algojobs.io/jobs/2163289) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Karachi, Pakistan |
-| 11/07/2024 | [Microsoft Power Platform Developer](https://algojobs.io/jobs/2161042) | [The British United Provident Association Limited](https://algojobs.io/company/bupa/) | N/A | Salford Quays / Central London |
 | 11/05/2024 | [Member of Staff, Regulatory Software Engineering (Remote)](https://algojobs.io/jobs/2137217) | [MEMX](https://algojobs.io/company/memx/) | $175K - $215K | United States (Remote) |
 | 11/04/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2135410) | [Dimensional](https://algojobs.io/company/dimensional/) | N/A | Remote - Austin Metro / Remote - Charlotte Metro (excluding South Carolina) |
 | 11/04/2024 | [BI Developer - NFR & Compliance @ING Hubs Romania](https://algojobs.io/jobs/2133951) | [ING Bank Personeel BV](https://algojobs.io/company/ing/) | N/A | Bucharest - Dacia One, Romania |
@@ -100,11 +106,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/28/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2080330) | [Toast](https://algojobs.io/company/toast/) | N/A | Bangalore, Karnataka, India |
 | 10/27/2024 | [Cybersecurity-CD -Power BI Developer- Senior Associate - Bangalore](https://algojobs.io/jobs/2081148) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bangalore, India |
 | 10/25/2024 | [Vice President, Head of Software Engineering - PGIM Innovation (Newark, NJ Hybrid)](https://algojobs.io/jobs/2079213) | [Prudential Financial, Inc.](https://algojobs.io/company/pru/) | $190K - $225K | Newark, NJ, USA, United States of America (Hybrid) |
-| 10/24/2024 | [Senior Developer (Dynamics 365)](https://algojobs.io/jobs/2061996) | [Donaldson Company](https://algojobs.io/company/donaldson/) | N/A | Kuala Lumpur, Malaysia |
 | 10/23/2024 | [Software Engineer](https://algojobs.io/jobs/2366837) | [MSCI](https://algojobs.io/company/globalcareers-msci/) | N/A | Budapest, PE, HU |
 | 10/23/2024 | [Business Intelligence Developer](https://algojobs.io/jobs/2049958) | [NTT](https://algojobs.io/company/nttlimited/) | N/A | Johannesburg, South Africa |
 | 10/22/2024 | [Software Engineer III](https://algojobs.io/jobs/2049029) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
 | 10/22/2024 | [Praktikum Vertrieb Services & Software (SS25)](https://algojobs.io/jobs/2052058) | [TRUMPF](https://algojobs.io/company/trumpf/) | N/A | Ditzingen, Germany |
-| 10/18/2024 | [Senior FP&A Analyst (Software & Control)](https://algojobs.io/jobs/2033386) | [Rockwell Automation](https://algojobs.io/company/rockwellautomation/) | N/A | Katowice, Poland |
-| 10/18/2024 | [Senior Systems Developer](https://algojobs.io/jobs/2024709) | [Greenbacker Capital](https://algojobs.io/company/greenbacker-capital/) | N/A | United States (Remote) |
-| 10/17/2024 | [SharePoint Developer I](https://algojobs.io/jobs/2016682) | [Agile Defense](https://algojobs.io/company/agile-defense/) | N/A | Huntsville, AL (Hybrid) |
